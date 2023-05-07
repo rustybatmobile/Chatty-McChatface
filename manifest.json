@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Chat app",
+    "version": "1.0.1", 
+    "description": "Talk to Harish", 
+    "action": {
+        "default_popup": "index.html", 
+        "default_title": "Rusty and Peach"
+    }
+}
